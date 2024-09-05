@@ -1,2 +1,2 @@
 this is file2
-line2
+line2 some extra content
